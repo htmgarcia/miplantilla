@@ -7394,3 +7394,6 @@ code {
 	font-weight: bold;
 	padding: 1px 4px;
 }
+footer .container{
+    max-width: 830px;
+}
