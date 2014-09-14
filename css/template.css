@@ -6991,14 +6991,7 @@ body.site.fluid {
 }
 .body .container {
 	background-color: #fff;
-	-moz-border-radius: 4px;
-	-webkit-border-radius: 4px;
-	border-radius: 4px;
-	padding: 20px;
-	border: 1px solid rgba(0,0,0,0.15);
-	-moz-box-shadow: 0px 0px 6px rgba(0,0,0,0.05);
-	-webkit-box-shadow: 0px 0px 6px rgba(0,0,0,0.05);
-	box-shadow: 0px 0px 6px rgba(0,0,0,0.05);
+	padding: 35px;
 }
 .well .page-header {
 	margin: 0px 0px 5px 0px;
