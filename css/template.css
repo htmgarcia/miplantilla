@@ -6971,10 +6971,10 @@ body.site.fluid {
 	margin-top: 0px;
 }
 .navigation {
-	padding: 5px 0;
-	border-top: 1px solid rgba(0,0,0,0.075);
-	border-bottom: 1px solid rgba(0,0,0,0.075);
-	margin-bottom: 10px;
+	padding: 3px 5px;
+	margin-bottom: 35px;
+    background: #badff2;
+    border-radius: 4px;
 }
 .navigation .nav-pills {
 	margin-bottom: 0;
