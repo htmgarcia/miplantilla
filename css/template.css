@@ -6928,6 +6928,11 @@ body.site {
 	border-top: 3px solid #0088cc;
 	padding: 20px;
 	background-color: #f4f6f7;
+    background-image: url("../images/fondo.jpg");
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-attachment: fixed;
 }
 body.site.fluid {
 	background-color: #ffffff;
