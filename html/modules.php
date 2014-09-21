@@ -41,7 +41,7 @@ function modChrome_well($module, &$params, &$attribs)
 		echo "<div class=\"well " . htmlspecialchars($params->get('moduleclass_sfx')) . "\">";
 		if ($module->showtitle)
 		{
-			echo "<h3 class=\"page-header\">" . $module->title . "</h3>";
+			echo "<h4 class=\"page-header\">" . $module->title . "</h4>";
 		}
 		echo $module->content;
 		echo "</div>";
